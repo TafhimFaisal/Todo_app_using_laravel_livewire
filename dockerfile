@@ -28,6 +28,6 @@ RUN chmod +x artisan
 
 RUN composer install --optimize-autoloader
 RUN php artisan config:cache
-RUN php artisan route:cache
-RUN php artisan view:cache
+RUN php artisan key:generate
 RUN npm install
+RUN composer require livewire/livewire
