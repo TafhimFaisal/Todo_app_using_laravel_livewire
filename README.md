@@ -6,7 +6,7 @@
 3. Install docker
 4. Run the docker
 5. Open the Project Director and Run the Comand below
-    > docker-compose up --build -d [ Note: to run project ]
+    > docker-compose up --build -d [ Note: to run project ] </br>
     > docker-compose down [ Note: to trun down project ]
 6. Run the commend below in the app image after the build
     > php artisan key:generate
