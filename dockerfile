@@ -25,6 +25,8 @@ RUN mkdir node_modules
 
 COPY ./app/ .
 RUN chmod +x artisan
+RUN chmod 777 -R storage/
+RUN chmod 777 -R bootstrap/cache/
 
 RUN composer install --optimize-autoloader
 RUN php artisan config:cache
