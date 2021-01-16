@@ -13,7 +13,9 @@
 
 ## __Ports__
 > 1. app is running on localhost:8081 
-> 2. adminer is running on  localhost:8000
+> 2. adminer is running on  localhost:8000 </br>
+    >  USER: root </br>
+    >  PASSWORD: password
 
 ![adminer login info](https://github.com/TafhimFaisal/Todo_app_using_laravel_livewire/blob/master/img/adminer.png)
 
