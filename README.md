@@ -15,7 +15,7 @@
 > 1. app is running on localhost:8081 
 > 2. adminer is running on  localhost:8000
 
-![adminer login info](https://github.com/TafhimFaisal/Todo_app_using_laravel_livewire/img/adminer.png"adminer login info")
+![adminer login info](https://github.com/TafhimFaisal/Todo_app_using_laravel_livewire/blob/master/img/adminer.png)
 
 
 
